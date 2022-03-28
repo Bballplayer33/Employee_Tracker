@@ -1,5 +1,5 @@
 
-const prompt = require('./lb/server');
+const prompt = require('./lb/server.js');
 
 const manage = new prompt();
 
