@@ -1,7 +1,7 @@
 # Employee Tracker
 
 ## Description
-
+This interface allows the user to interact with a companies interface. The user can view all employees, roles, and departments and allow changes to the mentioned categories.
 
 ## Table of Contents
  * [Installation](#installation)
@@ -13,7 +13,8 @@
         
 ## Installation
 
-        
+    Run: npm i
+    Run: node server start
         
 ## Usage
 
